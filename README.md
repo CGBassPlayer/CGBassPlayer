@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 #### I'm a Developer working in Oneonta, New York.
 
 ##### NOW
