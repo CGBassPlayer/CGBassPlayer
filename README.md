@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- ⚙️ Languages I use frequently: `java`, `python`, `html/css.js`, `vue.js`
+- ⚙️ Languages I use frequently: `java`, `sql`, `python`, `html/css.js`, `vue.js`
 - ⚡ Fun fact: I also work in live concert production. I've done everything from FOH engineer to cameraman to stage technician
 
 <!--
