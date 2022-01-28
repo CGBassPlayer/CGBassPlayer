@@ -1,3 +1,22 @@
+<!-- <div id="header" align="center">
+    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width=200/>
+</div>
+
+<div id="badges">
+    <a href="#">
+        <img src="https://img.shields.io/twitter/follow/Ryan_Goodwin_?label=Twitter&style=plastic&color=blue"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/github/followers/CGBassPlayer?style=plastic&color=white"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/github/stars/CGBassPlayer?style=plastic&color=white"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=plastic&logo=Linkedin&logoColor=blue"/>
+    </a>
+</div> -->
+
 ### Hi there 👋
 
 #### I'm a Developer working in Oneonta, New York.
