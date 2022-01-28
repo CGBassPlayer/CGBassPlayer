@@ -1,8 +1,9 @@
-<!-- <div id="header" align="center">
-    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width=200/>
+<div id="header" align="center">
+    <img src="https://cdn.discordapp.com/avatars/409140959100796939/aa4e38241fe75501061c8fdd02b009bf.webp" alt="bitmoji"/>
+    <br>
+    <h2>Ryan Goodwin</h2>
 </div>
-
-<div id="badges">
+<div id="badges" align="center">
     <a href="#">
         <img src="https://img.shields.io/twitter/follow/Ryan_Goodwin_?label=Twitter&style=plastic&color=blue"/>
     </a>
@@ -12,36 +13,47 @@
     <a href="#">
         <img src="https://img.shields.io/github/stars/CGBassPlayer?style=plastic&color=white"/>
     </a>
-    <a href="#">
+    <a href="https://www.linkedin.com/in/ryan-goodwin-2b396b161/">
         <img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=plastic&logo=Linkedin&logoColor=blue"/>
     </a>
-</div> -->
+</div>
 
-### Hi there 👋
+---
 
-#### I'm a Developer working in Oneonta, New York.
+I'm a Developer working out of Cobleskill, New York.
 
-##### NOW
+I enjoy writing code and putting on a good show. 
 
-- building a personal website
-- building a webapp for the status of my minecraft servers
+---
 
-##### BIO
+## 💻 Programming 💻
 
-- ⚙️ Languages I use frequently: `java`, `sql`, `python`, `html/css.js`, `vue.js`
-- ⚡ Fun fact: I also work in live concert production. I've done everything from FOH engineer to cameraman to stage technician
+Languages I know
+* Java
+* PL/SQL
+* Python
+* C#
+* Frontend Web
+    * HTML 5
+    * CSS 3
+    * Javascript
 
-<!--
-**CGBassPlayer/CGBassPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages I am learning / want to learn
+* Rust
 
-Here are some ideas to get you started:
+Frameworks I know and am interested in
+* Flask (Python)
+* FastAPI (Python)
+* Vue JS (JavaScript)
+* Angular (JavaScript)
+* ASP.NET Core (C#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎤 Music 🎤
+
+I work as a stage technician and mix engineer for [Entertainment Services]() based out of Rome, NY. I do sound for traveling acts and local area talent. Live concert production is my other passion and I like to incoroperate my knowledge of tech into shows.
+
+### **Ideas**
+* Matrix server for cheap wireless communication system with the whole team on and off stage.
+* VirtualHere on a raspberry pi to connect to usb speaker processor located on stage
