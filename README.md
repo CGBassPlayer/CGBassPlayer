@@ -28,6 +28,12 @@ I enjoy writing code and putting on a good show.
 
 ## 💻 Programming 💻
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CGBassPlayer&langs_count=10&theme=darcula&hide=css,html&count_private=true&layout=compact" alt="CGBassPlayer Language Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=darcula&count_private=true&show_icons=true" alt="CGBassPlayer GitHub Stats"/>
+</div>
+
 Languages I know
 * Java
 * PL/SQL
