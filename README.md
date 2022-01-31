@@ -7,12 +7,6 @@
     <a href="#">
         <img src="https://img.shields.io/twitter/follow/Ryan_Goodwin_?label=Twitter&style=plastic&color=blue"/>
     </a>
-    <a href="#">
-        <img src="https://img.shields.io/github/followers/CGBassPlayer?style=plastic&color=white"/>
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/github/stars/CGBassPlayer?style=plastic&color=white"/>
-    </a>
     <a href="https://www.linkedin.com/in/ryan-goodwin-2b396b161/">
         <img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=plastic&logo=Linkedin&logoColor=blue"/>
     </a>
@@ -28,18 +22,25 @@ I enjoy writing code and putting on a good show.
 
 ## 💻 Programming 💻
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CGBassPlayer&langs_count=10&theme=darcula&hide=css,html&count_private=true&layout=compact" alt="CGBassPlayer Language Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=darcula&count_private=true&show_icons=true" alt="CGBassPlayer GitHub Stats"/>
+<div id="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=darcula&count_private=true&show_icons=true&" alt="CGBassPlayer GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CGBassPlayer&langs_count=6&theme=darcula&hide=css,html&layout=compact" alt="CGBassPlayer Language Stats"/>
 </div>
+<!-- <div id="repos">
+  <a href="https://github.com/CGBassPlayer/sicas_audit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=sicas_audit&theme=darcula" alt="sicas_audit_readme">
+  </a>
+  <a href="https://github.com/CGBassPlayer/sicas_audit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=ytdlp-server&theme=darcula" alt="ytdlp-server_readme">
+  </a>
+</div> -->
 
 Languages I know
 * Java
 * PL/SQL
 * Python
 * C#
-* Frontend Web
+* Frontend Webstack
     * HTML 5
     * CSS 3
     * Javascript
@@ -47,7 +48,7 @@ Languages I know
 Languages I am learning / want to learn
 * Rust
 
-Frameworks I know and am interested in
+Frameworks I know or am interested in
 * Flask (Python)
 * FastAPI (Python)
 * Vue JS (JavaScript)
@@ -58,7 +59,7 @@ Frameworks I know and am interested in
 
 ## 🎤 Music 🎤
 
-I work as a stage technician and mix engineer for [Entertainment Services]() based out of Rome, NY. I do sound for traveling acts and local area talent. Live concert production is my other passion and I like to incoroperate my knowledge of tech into shows.
+I work as a stage technician and mix engineer for [Entertainment Services](https://entertainmentservicesny.com/) based out of Rome, NY. I do sound for traveling acts and local area talent. Live concert production is my other passion and I like to incoroperate my knowledge of tech into shows.
 
 ### **Ideas**
 * Matrix server for cheap wireless communication system with the whole team on and off stage.
