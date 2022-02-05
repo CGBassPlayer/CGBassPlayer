@@ -24,7 +24,7 @@ I enjoy writing code and putting on a good show.
 
 <div id="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=darcula&count_private=true&show_icons=true&" alt="CGBassPlayer GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CGBassPlayer&langs_count=6&theme=darcula&hide=css,html&layout=compact" alt="CGBassPlayer Language Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CGBassPlayer&langs_count=6&theme=darcula&layout=compact" alt="CGBassPlayer Language Stats"/>
 </div>
 <!-- <div id="repos">
   <a href="https://github.com/CGBassPlayer/sicas_audit">
