@@ -16,7 +16,7 @@
 
 I'm a Developer working out of Cobleskill, New York.
 
-I enjoy writing code and putting on a good show. 
+I enjoy writing code and putting on concerts. 
 
 ---
 
