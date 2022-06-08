@@ -22,13 +22,14 @@ Description about me here...
 
 [![ytdlp-server Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=ytdlp-server&theme=blue-green)](https://github.com/CGBassPlayer/ytdlp-server)
 [![flask-blog Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=flask-blog&theme=blue-green)](https://github.com/CGBassPlayer/flask-blog)
+[![goodwinlabs Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=goodwinlabs&theme=blue-green)](https://github.com/CGBassPlayer/goodwinlabs)
 [![sicas-scripts Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=sicas-scripts&theme=blue-green)](https://github.com/CGBassPlayer/sicas-scripts)
-[![sicas-audit Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=sicas-audit&theme=blue-green)](https://github.com/CGBassPlayer/sicas-audit)
 
 # 📊 My Stats
 [![CGBassPlayer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=blue-green&count_private=true&show_icons=true)](https://github.com/CGBassPlayer)
-
 [![CGBassPlayer GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CGBassPlayer&count_private=true&theme=blue-green)](https://github.com/CGBassPlayer)
+[![CGBassPlayer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CGBassPlayer&langs_count=10&theme=blue-green)](https://github.com/CGBassPlayer)
+
 
 
 <!-- Languages I know
