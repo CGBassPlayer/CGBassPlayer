@@ -16,9 +16,11 @@
 </div>
 
 # 👋 Hi!
-Description about me here...
+My name is Ryan and I love code and concerts. My day job is working as a Lead Programmer / Analyst for a company providing extra functionality and features to the Ellucian product Banner. 
 
-# 🧑‍💻 My open source repos
+My night job(s) are working in the event industry. I handle audio and/or lighting for up to 600 person shows. I love finding ways to implement open source tech into the live concert enviornment. 
+
+# 🧑‍💻 My repos
 
 [![ytdlp-server Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=ytdlp-server&theme=blue-green)](https://github.com/CGBassPlayer/ytdlp-server)
 [![flask-blog Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=flask-blog&theme=blue-green)](https://github.com/CGBassPlayer/flask-blog)
