@@ -31,36 +31,3 @@ My night job(s) are working in the event industry. I handle audio and/or lightin
 [![CGBassPlayer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=blue-green&count_private=true&show_icons=true)](https://github.com/CGBassPlayer)
 [![CGBassPlayer GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CGBassPlayer&count_private=true&theme=blue-green)](https://github.com/CGBassPlayer)
 [![CGBassPlayer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CGBassPlayer&langs_count=10&theme=blue-green)](https://github.com/CGBassPlayer)
-
-
-
-<!-- Languages I know
-* Java
-* PL/SQL
-* Python
-* C#
-* Frontend Webstack
-    * HTML 5
-    * CSS 3
-    * Javascript
-
-Languages I am learning / want to learn
-* Rust
-
-Frameworks I know or am interested in
-* Flask (Python)
-* FastAPI (Python)
-* Vue JS (JavaScript)
-* Angular (JavaScript)
-* ASP.NET Core (C#)
-
----
-
-## 🎤 Music 🎤
-
-I work as a stage technician and mix engineer for [Entertainment Services](https://entertainmentservicesny.com/) based out of Rome, NY. I do sound for traveling acts and local area talent. Live concert production is my other passion and I like to incoroperate my knowledge of tech into shows.
-
-### **Ideas**
-* Matrix server for cheap wireless communication system with the whole team on and off stage.
-* VirtualHere on a raspberry pi to connect to usb speaker processor located on stage
- -->
