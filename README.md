@@ -23,7 +23,7 @@ My night job(s) are working in the event industry. I handle audio and/or lightin
 # 🧑‍💻 My repos
 
 [![flask-blog Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=flask-blog&theme=blue-green)](https://github.com/CGBassPlayer/flask-blog)
-[![portainer-stacks Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=goodwinlabs&theme=blue-green)](https://github.com/CGBassPlayer/portainer-stacks)
+[![portainer-stacks Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=portainer-stacks&theme=blue-green)](https://github.com/CGBassPlayer/portainer-stacks)
 [![sicas-scripts Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=sicas-scripts&theme=blue-green)](https://github.com/CGBassPlayer/sicas-scripts)
 
 # 📊 My Stats
