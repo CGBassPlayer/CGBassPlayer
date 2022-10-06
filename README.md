@@ -30,4 +30,4 @@ My night job(s) are working in the event industry. I handle audio and/or lightin
 [![CGBassPlayer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=blue-green&count_private=true&show_icons=true)](https://github.com/CGBassPlayer)
 [![CGBassPlayer GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CGBassPlayer&count_private=true&theme=blue-green)](https://github.com/CGBassPlayer)
 
-[![CGBassPlayer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CGBassPlayer&langs_count=10&theme=blue-green)](https://github.com/CGBassPlayer)
+[![CGBassPlayer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CGBassPlayer&langs_count=5&theme=blue-green)](https://github.com/CGBassPlayer)
