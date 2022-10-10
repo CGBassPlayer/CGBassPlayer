@@ -15,19 +15,46 @@
     </a>
 </div>
 
-# 👋 Hi!
+<!-- # 👋 Hi!
 My name is Ryan and I love code and concerts. My day job is working as a Lead Programmer / Analyst for a company providing extra functionality and features to the Ellucian product Banner. 
 
-My night job(s) are working in the event industry. I handle audio and/or lighting for up to 600 person shows. I love finding ways to implement open source tech into the live concert enviornment. 
+My night job(s) are working in the event industry. I handle audio and/or lighting for up to 600 person shows. I love finding ways to implement open source tech into the live concert enviornment.  -->
 
 # 🧑‍💻 My repos
-
-[![flask-blog Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=flask-blog&theme=blue-green)](https://github.com/CGBassPlayer/flask-blog)
-[![portainer-stacks Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=portainer-stacks&theme=blue-green)](https://github.com/CGBassPlayer/portainer-stacks)
-[![sicas-scripts Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=sicas-scripts&theme=blue-green)](https://github.com/CGBassPlayer/sicas-scripts)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/CGBassPlayer/flask-blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=flask-blog&theme=blue-green" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/CGBassPlayer/portainer-stacks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=portainer-stacks&theme=blue-green" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/CGBassPlayer/sicas-scripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=sicas-scripts&theme=blue-green" /></a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 # 📊 My Stats
-[![CGBassPlayer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=blue-green&count_private=true&show_icons=true)](https://github.com/CGBassPlayer)
-[![CGBassPlayer GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CGBassPlayer&count_private=true&theme=blue-green)](https://github.com/CGBassPlayer)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=blue-green&count_private=true&show_icons=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGBassPlayer&count_private=true&theme=blue-green" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGBassPlayer&langs_count=4&theme=blue-green" />
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-[![CGBassPlayer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CGBassPlayer&langs_count=10&theme=blue-green)](https://github.com/CGBassPlayer)
+[![@cg_bassplayer's Holopin board](https://holopin.io/api/user/board?user=cg_bassplayer)](https://holopin.io/@cg_bassplayer)
+
