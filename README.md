@@ -15,10 +15,10 @@
     </a>
 </div>
 
-# 👋 Hi!
+<!-- # 👋 Hi!
 My name is Ryan and I love code and concerts. My day job is working as a Lead Programmer / Analyst for a company providing extra functionality and features to the Ellucian product Banner. 
 
-My night job(s) are working in the event industry. I handle audio and/or lighting for up to 600 person shows. I love finding ways to implement open source tech into the live concert enviornment. 
+My night job(s) are working in the event industry. I handle audio and/or lighting for up to 600 person shows. I love finding ways to implement open source tech into the live concert enviornment.  -->
 
 # 🧑‍💻 My repos
 <table>
