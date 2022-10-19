@@ -10,30 +10,42 @@
 
 ```yaml
 CG_BassPlayer:
-    personal:
-        pronouns:
-            - he
-            - him
-        hobbies:
-            - Homelab
-            - Audio Tech
-            - 3D printing
-    technical:
-        languages:
-            - Java
-            - Python
-            - PL/SQL
-        tools:
-            ides:
-                - IntelliJ
-                - PyCharm
-                - VS Code
-            frameworks:
-                - FastAPI
-                - ReactJS
-            technologies:
-                - GitHub Actions
-                - Ansible
+  personal:
+    pronouns:
+      - he
+      - him
+    hobbies:
+      - name: Homelab
+        description: |
+          Lab to learn new tools and services. Services I run
+          can be found in my portainer-stacks repo
+      - name: 3D printing
+  technical:
+    programming:
+      - lang: Java
+        frameworks:
+          - JAXB
+      - lang: Python
+        frameworks:
+          - FastAPI
+          - playwight
+          - pyTest
+      - lang: Javascript
+        frameworks:
+          - ReactJS
+    databases:
+      - Oracle
+      - MSSQL
+      - Postgres
+    tools:
+      ides:
+        - IntelliJ
+        - PyCharm
+        - VS Code
+      technologies:
+        - Docker
+        - GitHub Actions
+        - Ansible
 ```
 
 ### :heart: My Open Source Contributions
