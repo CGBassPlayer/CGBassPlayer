@@ -50,9 +50,11 @@ CG_BassPlayer:
 
 ### :heart: My Open Source Contributions
 
-<!-- [![JB website](https://github-readme-stats.vercel.app/api/pin/?username=JupiterBroadcasting&repo=jupiterbroadcasting.com&theme=blue-green)](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com) -->
 <a href="https://github.com/JupiterBroadcasting/jupiterbroadcasting.com">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JupiterBroadcasting&repo=jupiterbroadcasting.com&theme=blue-green" width="49.5%" />
+</a>
+<a href="https://github.com/CGBassPlayer/zeronote">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=zeronote&theme=blue-green" width="49.5%" />
 </a>
 
 ### :star2: Badges
