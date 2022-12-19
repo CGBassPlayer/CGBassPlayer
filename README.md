@@ -25,6 +25,7 @@ CG_BassPlayer:
       - lang: Java
         frameworks:
           - JAXB
+          - Apache POI
       - lang: Python
         frameworks:
           - FastAPI
@@ -45,7 +46,6 @@ CG_BassPlayer:
       technologies:
         - Docker
         - GitHub Actions
-        - Ansible
 ```
 
 ## :heart: My Open Source Contributions
@@ -53,8 +53,8 @@ CG_BassPlayer:
 <a href="https://github.com/JupiterBroadcasting/jupiterbroadcasting.com">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JupiterBroadcasting&repo=jupiterbroadcasting.com&theme=blue-green" width="49.5%" />
 </a>
-<a href="https://github.com/CGBassPlayer/zeronote">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=zeronote&theme=blue-green" width="49.5%" />
+<a href="https://github.com/CGBassPlayer/zeronote-docker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=zeronote-docker&theme=blue-green" width="49.5%" />
 </a>
 
 ## :star2: Badges
