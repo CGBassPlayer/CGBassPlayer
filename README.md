@@ -66,5 +66,5 @@ CG_BassPlayer:
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=blue-green&count_private=true&show_icons=true" alt="GitHub Stats" width="49.7%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGBassPlayer&count_private=true&theme=blue-green" alt="GitHub Streak" width="49.7%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGBassPlayer&langs_count=4&theme=blue-green" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGBassPlayer&count_private=true&langs_count=10&theme=blue-green" alt="Top Langs" />
 </div>
