@@ -53,6 +53,9 @@ CG_BassPlayer:
 <a href="https://github.com/JupiterBroadcasting/jupiterbroadcasting.com">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JupiterBroadcasting&repo=jupiterbroadcasting.com&theme=blue-green" width="49.5%" />
 </a>
+<a href="https://github.com/microsoft/playwright-pytest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=playwright-pytest&theme=blue-green" width="49.5%" />
+</a>
 <a href="https://github.com/CGBassPlayer/zeronote-docker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=zeronote-docker&theme=blue-green" width="49.5%" />
 </a>
