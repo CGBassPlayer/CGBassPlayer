@@ -2,9 +2,10 @@
 <img src="img/CG_BassPlayer.png" alt="bitmoji" align="right" width="20%">
 <p><em>Lead Programmer/Analyst at the <a href="https://sicas.suny.edu">SUNY SICAS Center</a></em></p>
 
-[![Twitter: Ryan_Goodwin_](https://img.shields.io/twitter/follow/Ryan_Goodwin_?label=Twitter&logo=Twitter&logoColor=2f97c1&color=0cf574&style=plastic)](https://www.twitter.com/Ryan_Goodwin_)
+<!-- [![Twitter: Ryan_Goodwin_](https://img.shields.io/twitter/follow/Ryan_Goodwin_?label=Twitter&logo=Twitter&logoColor=2f97c1&color=0cf574&style=plastic)](https://www.twitter.com/Ryan_Goodwin_) -->
 [![Linkedin: Ryan Goodwin](https://img.shields.io/badge/Linkedin-Connect-blue?color=0cf574&logo=Linkedin&logoColor=2f97c1&style=plastic)](https://www.linkedin.com/in/ryan-goodwin-2b396b161/)
 [![GitHub: Ryan Goodwin](https://img.shields.io/github/followers/CGBassPlayer?color=0cf574&logo=GitHub&style=plastic)](https://www.github.com/CGBassPlayer)
+[![Matrix Chat](https://img.shields.io/badge/Matrix-%40cg__bassplayer%3Amatrix.org-blue?style=plastic)](https://matrix.to/#/@cg_bassplayer:matrix.org)
 
 ## :man_technologist: About Me
 
