@@ -17,11 +17,13 @@ CG_BassPlayer:
       - him
     hobbies:
       - name: Homelab
-        description: |
-          Lab to learn new tools and services. Services I run
-          can be found in my portainer-stacks repo
+        description: Lab to learn new tools and services
       - name: 3D printing
   technical:
+    os:
+      - Ubuntu
+      - Pop!_OS
+      - Windows
     programming:
       - lang: Java
         frameworks:
@@ -47,6 +49,8 @@ CG_BassPlayer:
       technologies:
         - Docker
         - GitHub Actions
+        - Ansible
+        - Terraform
 ```
 
 ## :heart: My Open Source Contributions
