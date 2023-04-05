@@ -21,8 +21,8 @@ CG_BassPlayer:
       - name: 3D printing
   technical:
     os:
-      - Ubuntu
       - Pop!_OS
+      - Ubuntu
       - Windows
     programming:
       - lang: Java
