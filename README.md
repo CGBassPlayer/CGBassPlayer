@@ -70,9 +70,9 @@ CG_BassPlayer:
 <a href="https://github.com/juliushaertl/nextcloud-docker-dev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliushaertl&repo=nextcloud-docker-dev&theme=blue-green" width="49.5%" />
 </a>
-<a href="https://github.com/CGBassPlayer/zeronote-docker">
+<!-- <a href="https://github.com/CGBassPlayer/zeronote-docker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=zeronote-docker&theme=blue-green" width="49.5%" />
-</a>
+</a> -->
 
 ## :star2: Badges
 [![@cg_bassplayer's Holopin board](https://holopin.io/api/user/board?user=cg_bassplayer)](https://holopin.io/@cg_bassplayer)
