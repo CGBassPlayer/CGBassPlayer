@@ -78,6 +78,7 @@ CG_BassPlayer:
 [![@cg_bassplayer's Holopin board](https://holopin.io/api/user/board?user=cg_bassplayer)](https://holopin.io/@cg_bassplayer)
 <div>
     <a href="https://dev.to/cg_bassplayer"><img src="img/badges/hacktoberfest-badge-1024x1024.png" alt="hacktoberfest badge" width="20%" /></a>
+    <a href="https://www.audinate.com/meet-dante"><img src="img/badges/dante_certified_seal_level3.png" alt="hacktoberfest badge" width="20%" /></a>
 </div>
 
 ## :bar_chart: Stats
