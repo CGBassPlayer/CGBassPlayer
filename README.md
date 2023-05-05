@@ -1,6 +1,6 @@
 <h2>Hi :wave: I'm Ryan Goodwin! <img src="https://media.giphy.com/media/1PM4WKF1nvpgEupO0w/giphy.gif" width=50 /></h2>
 <img src="img/CG_BassPlayer.png" alt="bitmoji" align="right" width="20%">
-<p><em>Lead Programmer/Analyst at the <a href="https://sicas.suny.edu">SUNY SICAS Center</a></em></p>
+<p><em>Software Engineer II at <a href="https://www.principal.com/">Principal</a></em></p>
 
 <!-- [![Twitter: Ryan_Goodwin_](https://img.shields.io/twitter/follow/Ryan_Goodwin_?label=Twitter&logo=Twitter&logoColor=2f97c1&color=0cf574&style=plastic)](https://www.twitter.com/Ryan_Goodwin_) -->
 [![Linkedin: Ryan Goodwin](https://img.shields.io/badge/Linkedin-Connect-blue?color=0cf574&logo=Linkedin&logoColor=2f97c1&style=plastic)](https://www.linkedin.com/in/ryan-goodwin-2b396b161/)
