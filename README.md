@@ -23,23 +23,21 @@ CG_BassPlayer:
     os:
       - Pop!_OS
       - Ubuntu
-      - Windows
     programming:
       - lang: Java
         frameworks:
           - JAXB
-          - Apache POI
       - lang: Python
         frameworks:
           - FastAPI
           - playwight
           - pyTest
-      - lang: Javascript
+      - lang: Typescript
         frameworks:
-          - ReactJS
+          - AWS CDK
     databases:
       - Oracle
-      - MSSQL
+      - Snowflake
       - Postgres
     tools:
       ides:
@@ -77,8 +75,7 @@ CG_BassPlayer:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=zeronote-docker&theme=blue-green" width="49.5%" />
 </a> -->
 
-## :star2: Badges
-<!-- [![@cg_bassplayer's Holopin board](https://holopin.io/api/user/board?user=cg_bassplayer)](https://holopin.io/@cg_bassplayer) -->
+## :star2: Badges and Certifications
 [![@cg_bassplayer's Holopin board](https://holopin.me/cg_bassplayer)](https://holopin.io/@cg_bassplayer)
 <div>
     <a href="https://dev.to/cg_bassplayer"><img src="img/badges/hacktoberfest-badge-1024x1024.png" alt="hacktoberfest badge" width="20%" /></a>
