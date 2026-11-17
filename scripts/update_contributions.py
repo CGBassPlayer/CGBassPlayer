@@ -36,7 +36,7 @@ def repo_names(endpoint: str) -> list[str]:
 
 
 def fetch_languages() -> Counter:
-    names = repo_names(f"users/{USER}/repos") + repo_names("orgs/goodwinlabs/repos")
+    names = repo_names(f"users/{USER}/repos")
     total = Counter()
     for name in names:
         total.update(json.loads(gh(f"repos/{name}/languages")))

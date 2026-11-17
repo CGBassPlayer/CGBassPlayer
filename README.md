@@ -112,16 +112,16 @@ CG_BassPlayer:
 
 ## :bar_chart: Top Languages
 
-Bytes of code across my personal repos and the goodwinlabs homelab org, excluding markup and data formats.
+Bytes of code across my public repos, excluding markup and data formats.
 
 <!-- languages:start -->
 | Language | Share |
 | --- | ---: |
-| Python | 74.6% |
-| Go | 7.0% |
-| TypeScript | 6.5% |
-| HCL | 3.3% |
-| Shell | 3.3% |
+| Python | 73.1% |
+| TypeScript | 16.6% |
+| Java | 4.6% |
+| HCL | 4.6% |
+| PowerShell | 0.5% |
 <!-- languages:end -->
 
 <details>
