@@ -32,6 +32,8 @@ I run infrastructure and platform administration at [Principal](https://www.prin
 ## :heart: My Open Source Contributions
 
 <!-- contributions:start -->
+**106** merged PRs across **8** projects, and **258** PRs reviewed.
+
 | Project | Merged PRs |
 | --- | ---: |
 | [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com) | 76 |
@@ -43,6 +45,16 @@ I run infrastructure and platform administration at [Principal](https://www.prin
 | [kmogged/jupiterbroadcasting.com](https://github.com/kmogged/jupiterbroadcasting.com) | 1 |
 | [microsoft/playwright-pytest](https://github.com/microsoft/playwright-pytest) | 1 |
 <!-- contributions:end -->
+
+### Recent merged PRs
+
+<!-- recent:start -->
+- [Merge duplicate people pages and remove Joe](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1164) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-16
+- [Add the Washington Pass geocache location to the LUP 480 links](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1167) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-16
+- [Fix broken links in show notes: escape quotes in link titles and replace the dead Fountain referral](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1168) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-16
+- [Keep hand-merged people pages from being recreated on a rescrape](https://github.com/ChanceM/show-scraper-2/pull/12) in [ChanceM/show-scraper-2](https://github.com/ChanceM/show-scraper-2), 2026-11-16
+- [Add fallback content to /live/ when the stream is offline](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1163) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-16
+<!-- recent:end -->
 
 ## :man_technologist: About Me
 
@@ -95,6 +107,20 @@ CG_BassPlayer:
     <a href="https://dev.to/cg_bassplayer"><img src="img/badges/hacktoberfest-badge-1024x1024.png" alt="Hacktoberfest participant badge" width="20%" /></a>
     <a href="https://www.audinate.com/meet-dante"><img src="img/badges/dante_certified_seal_level3.png" alt="Dante Level 3 certification" width="20%" /></a>
 </div>
+
+## :bar_chart: Top Languages
+
+Bytes of code across my public repos.
+
+<!-- languages:start -->
+| Language | Share |
+| --- | ---: |
+| Python | 62.8% |
+| TypeScript | 14.3% |
+| CSS | 10.4% |
+| Java | 4.0% |
+| HCL | 4.0% |
+<!-- languages:end -->
 
 <details>
   <summary>:bar_chart: GitHub streak</summary>
