@@ -1,4 +1,4 @@
-<img src="img/banner.svg" alt="Ryan Goodwin: infrastructure and platform engineering, live audio, smart lighting, homelab" width="100%" />
+# Hi :wave: I'm Ryan Goodwin
 
 I run infrastructure and platform administration at [Principal](https://www.principal.com/), supporting thousands of developers across the company. Outside of work I tinker with smart lighting, 3D printing and a homelab.
 
