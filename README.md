@@ -24,12 +24,6 @@ I run infrastructure and platform administration at [Principal](https://www.prin
 - [seedtuber](https://github.com/CGBassPlayer/seedtuber): Docker container that seeds PeerTube live streams headless
 - [jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com): triage, reviews and the pytest and Playwright e2e tests for the Hugo site
 
-<p align="center">
-  <a href="https://github.com/CGBassPlayer/track-glow">
-    <img src="img/track-glow-dashboard.png" alt="Track Glow dashboard showing a green flag on lap 13 of 80 with a bar of LEDs lit green" width="40%" />
-  </a>
-</p>
-
 ## :heart: My Open Source Contributions
 
 <!-- contributions:start -->
