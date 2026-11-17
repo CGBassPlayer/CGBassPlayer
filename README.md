@@ -1,11 +1,50 @@
-<h2>Hi :wave: I'm Ryan Goodwin! <img src="https://media.giphy.com/media/1PM4WKF1nvpgEupO0w/giphy.gif" width=50 /></h2>
-<img src="img/CG_BassPlayer.png" alt="bitmoji" align="right" width="20%">
-<p><em>Software Engineer II at <a href="https://www.principal.com/">Principal</a></em></p>
+<img src="img/CG_BassPlayer.png" alt="Ryan's bitmoji" align="right" width="20%">
 
-<!-- [![Twitter: Ryan_Goodwin_](https://img.shields.io/twitter/follow/Ryan_Goodwin_?label=Twitter&logo=Twitter&logoColor=2f97c1&color=0cf574&style=plastic)](https://www.twitter.com/Ryan_Goodwin_) -->
-[![Linkedin: Ryan Goodwin](https://img.shields.io/badge/Linkedin-Connect-blue?color=0cf574&logo=Linkedin&logoColor=2f97c1&style=plastic)](https://www.linkedin.com/in/ryan-goodwin-2b396b161/)
-[![GitHub: Ryan Goodwin](https://img.shields.io/github/followers/CGBassPlayer?color=0cf574&logo=GitHub&style=plastic)](https://www.github.com/CGBassPlayer)
-[![Matrix Chat](https://img.shields.io/badge/Matrix-%40cg__bassplayer%3Amatrix.org-blue?style=plastic)](https://matrix.to/#/@cg_bassplayer:matrix.org)
+# Hi :wave: I'm Ryan Goodwin
+
+I run infrastructure and platform administration at [Principal](https://www.principal.com/), supporting thousands of developers across the company. Outside of work I tinker with smart lighting, 3D printing and a homelab.
+
+[![Website](https://img.shields.io/badge/-ryanjgoodwin.com-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://ryanjgoodwin.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-goodwin-2b396b161/)
+[![Matrix](https://img.shields.io/badge/-Matrix-000000?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/@cg_bassplayer:matrix.org)
+[![dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/cg_bassplayer)
+
+## :hammer_and_wrench: What I Do at Work
+
+- Reduce friction for thousands of developers across the company by keeping their tools fast, reliable and easy to use
+- Administer GitHub and Artifactory, where code and build artifacts live
+- Run the build and deployment machinery that gets code from a laptop to production
+- Build self-service tools so developers can get what they need without filing a ticket
+- Connect internal systems to each other with AWS
+- Lead a small team and help neighboring teams with design and architecture
+
+## :rocket: Projects
+
+- [track-glow](https://github.com/CGBassPlayer/track-glow): drives WLED strips from live NASCAR flags, with Home Assistant scenes (Python, PySide6, Docker)
+- [Audio Help](https://audiohelp.me): step-by-step guides for specific live audio consoles
+- [seedtuber](https://github.com/CGBassPlayer/seedtuber): Docker container that seeds PeerTube live streams headless
+- [jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com): triage, reviews and the pytest and Playwright e2e tests for the Hugo site
+
+<p align="center">
+  <a href="https://github.com/CGBassPlayer/track-glow">
+    <img src="img/track-glow-dashboard.png" alt="Track Glow dashboard showing a green flag on lap 13 of 80 with a bar of LEDs lit green" width="40%" />
+  </a>
+</p>
+
+## :heart: My Open Source Contributions
+
+<!-- contributions:start -->
+| Project | Merged PRs |
+| --- | ---: |
+| [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com) | 76 |
+| [OpenLightingProject/open-fixture-library](https://github.com/OpenLightingProject/open-fixture-library) | 18 |
+| [ChanceM/show-scraper-2](https://github.com/ChanceM/show-scraper-2) | 5 |
+| [JupiterBroadcasting/show-scraper](https://github.com/JupiterBroadcasting/show-scraper) | 3 |
+| [HopperDropper/Gridfinity](https://github.com/HopperDropper/Gridfinity) | 1 |
+| [hartmann-jonas/GrandMA2-Keyboard](https://github.com/hartmann-jonas/GrandMA2-Keyboard) | 1 |
+| [kmogged/jupiterbroadcasting.com](https://github.com/kmogged/jupiterbroadcasting.com) | 1 |
+| [microsoft/playwright-pytest](https://github.com/microsoft/playwright-pytest) | 1 |
+<!-- contributions:end -->
 
 ## :man_technologist: About Me
 
@@ -18,74 +57,49 @@ CG_BassPlayer:
     hobbies:
       - name: Homelab
         description: Lab to learn new tools and services
+      - name: Smart lighting
+        description: WLED and Home Assistant
+      - name: Live audio
+        description: Console guides at audiohelp.me
       - name: 3D printing
   technical:
     os:
       - Pop!_OS
       - Ubuntu
-    programming:
-      - lang: Java
-        frameworks:
-          - JAXB
-      - lang: Python
-        frameworks:
+    languages:
+      - Python:
           - FastAPI
-          - playwight
-          - pyTest
-      - lang: Typescript
-        frameworks:
+          - pytest
+          - Playwright
+          - PySide6
+      - TypeScript:
           - AWS CDK
-    databases:
-      - Oracle
-      - Snowflake
-      - Postgres
-    tools:
-      ides:
-        - IntelliJ
-        - PyCharm
-        - VS Code
-      technologies:
-        - Docker
-        - GitHub Actions
-        - Ansible
-        - Terraform
+      - Terraform
+      - Bash
+    platform:
+      - AWS
+      - Kubernetes
+      - Docker
+      - Ansible
+      - GitHub Enterprise
+      - Artifactory
+      - GitHub Actions
+    practices:
+      - IaC
+      - CI/CD
+      - ETL
+      - REST
 ```
-
-## :heart: My Open Source Contributions
-
-<a href="https://github.com/JupiterBroadcasting/jupiterbroadcasting.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JupiterBroadcasting&repo=jupiterbroadcasting.com&theme=blue-green" width="49.5%" />
-</a>
-<a href="https://github.com/OpenLightingProject/open-fixture-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenLightingProject&repo=open-fixture-library&theme=blue-green" width="49.5%" />
-</a>
-<a href="https://github.com/microsoft/playwright-pytest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=playwright-pytest&theme=blue-green" width="49.5%" />
-</a>
-<a href="https://github.com/CGBassPlayer/seedtuber">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=seedtuber&theme=blue-green" width="49.5%" />
-</a>
-<!-- <a href="https://github.com/JupiterBroadcasting/show-scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JupiterBroadcasting&repo=show-scraper&theme=blue-green" width="49.5%" />
-</a>
-<a href="https://github.com/juliushaertl/nextcloud-docker-dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliushaertl&repo=nextcloud-docker-dev&theme=blue-green" width="49.5%" />
-</a> -->
-<!-- <a href="https://github.com/CGBassPlayer/zeronote-docker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGBassPlayer&repo=zeronote-docker&theme=blue-green" width="49.5%" />
-</a> -->
 
 ## :star2: Badges and Certifications
 [![@cg_bassplayer's Holopin board](https://holopin.me/cg_bassplayer)](https://holopin.io/@cg_bassplayer)
 <div>
-    <a href="https://dev.to/cg_bassplayer"><img src="img/badges/hacktoberfest-badge-1024x1024.png" alt="hacktoberfest badge" width="20%" /></a>
-    <a href="https://www.audinate.com/meet-dante"><img src="img/badges/dante_certified_seal_level3.png" alt="hacktoberfest badge" width="20%" /></a>
+    <a href="https://dev.to/cg_bassplayer"><img src="img/badges/hacktoberfest-badge-1024x1024.png" alt="Hacktoberfest participant badge" width="20%" /></a>
+    <a href="https://www.audinate.com/meet-dante"><img src="img/badges/dante_certified_seal_level3.png" alt="Dante Level 3 certification" width="20%" /></a>
 </div>
 
-## :bar_chart: Stats
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=CGBassPlayer&theme=blue-green&count_private=true&show_icons=true" alt="GitHub Stats" width="49.7%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGBassPlayer&count_private=true&theme=blue-green" alt="GitHub Streak" width="49.7%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGBassPlayer&langs_count=4&theme=blue-green" alt="Top Langs" />
-</div>
+<details>
+  <summary>:bar_chart: GitHub streak</summary>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGBassPlayer&count_private=true&theme=transparent&hide_border=true" alt="GitHub contribution streak for CGBassPlayer" />
+</details>

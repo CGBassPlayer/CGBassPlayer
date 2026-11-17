@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Refresh contributions table
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Regenerate contributions table
+        run: python3 scripts/update_contributions.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Commit changes
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update contributions"
+          git push
