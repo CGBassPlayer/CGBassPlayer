@@ -36,6 +36,11 @@ def test_languages_percent_and_cap():
     assert out[2:] == ["| Python | 74.3% |", "| TypeScript | 24.8% |"]
 
 
+def test_languages_skip_markup_and_data():
+    out = render_languages(Counter({"Python": 50, "CSS": 30, "Markdown": 10, "JSON": 10})).splitlines()
+    assert out[2:] == ["| Python | 100.0% |"]
+
+
 def test_replace_section_swaps_only_named_markers():
     text = "a\n<!-- x:start -->\nold\n<!-- x:end -->\n<!-- y:start -->\nkeep\n<!-- y:end -->\n"
     assert replace_section(text, "x", "new") == "a\n<!-- x:start -->\nnew\n<!-- x:end -->\n<!-- y:start -->\nkeep\n<!-- y:end -->\n"

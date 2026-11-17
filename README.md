@@ -115,11 +115,11 @@ Bytes of code across my public repos.
 <!-- languages:start -->
 | Language | Share |
 | --- | ---: |
-| Python | 62.8% |
-| TypeScript | 14.3% |
-| CSS | 10.4% |
-| Java | 4.0% |
-| HCL | 4.0% |
+| Python | 73.1% |
+| TypeScript | 16.6% |
+| Java | 4.6% |
+| HCL | 4.6% |
+| PowerShell | 0.5% |
 <!-- languages:end -->
 
 <details>

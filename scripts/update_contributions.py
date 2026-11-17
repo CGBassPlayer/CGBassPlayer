@@ -9,6 +9,7 @@ USER = "CGBassPlayer"
 OTHERS = f"-user:{USER} -org:goodwinlabs"
 MERGED = f"author:{USER} type:pr is:merged {OTHERS}"
 REVIEWED = f"type:pr reviewed-by:{USER} -author:{USER} {OTHERS}"
+NOT_LANGUAGES = {"JSON", "YAML", "TOML", "XML", "CSS", "SCSS", "HTML", "Markdown", "Jinja", "Smarty", "Dockerfile"}
 
 
 def gh(*args: str) -> str:
@@ -60,6 +61,7 @@ def render_recent(prs: list[dict], n: int = 5) -> str:
 
 
 def render_languages(langs: Counter, n: int = 5) -> str:
+    langs = Counter({k: v for k, v in langs.items() if k not in NOT_LANGUAGES})
     total = sum(langs.values())
     rows = [f"| {lang} | {size / total:.1%} |" for lang, size in langs.most_common(n)]
     return "\n".join(["| Language | Share |", "| --- | ---: |", *rows])
