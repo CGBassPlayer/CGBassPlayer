@@ -1,5 +1,3 @@
-<img src="img/CG_BassPlayer.png" alt="Ryan's bitmoji" align="right" width="20%">
-
 # Hi :wave: I'm Ryan Goodwin
 
 I run infrastructure and platform administration at [Principal](https://www.principal.com/), supporting thousands of developers across the company. Outside of work I tinker with smart lighting, 3D printing and a homelab.
