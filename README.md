@@ -19,6 +19,7 @@ I run infrastructure and platform administration at [Principal](https://www.prin
 ## :rocket: Projects
 
 - [track-glow](https://github.com/CGBassPlayer/track-glow): drives WLED strips from live NASCAR flags, with Home Assistant scenes (Python, PySide6, Docker)
+- [goodwinlabs](https://github.com/goodwinlabs): my homelab org, mostly private, with Proxmox provisioning, NetBox-driven Ansible and policy-as-code
 - [Audio Help](https://audiohelp.me): step-by-step guides for specific live audio consoles
 - [seedtuber](https://github.com/CGBassPlayer/seedtuber): Docker container that seeds PeerTube live streams headless
 - [jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com): triage, reviews and the pytest and Playwright e2e tests for the Hugo site
@@ -94,6 +95,13 @@ CG_BassPlayer:
       - GitHub Enterprise
       - Artifactory
       - GitHub Actions
+    homelab:
+      - Proxmox
+      - NetBox
+      - Ansible
+      - UniFi
+      - Open Policy Agent
+      - GitOps
     practices:
       - IaC
       - CI/CD
@@ -110,16 +118,16 @@ CG_BassPlayer:
 
 ## :bar_chart: Top Languages
 
-Bytes of code across my public repos.
+Bytes of code across my personal repos and the goodwinlabs homelab org, excluding markup and data formats.
 
 <!-- languages:start -->
 | Language | Share |
 | --- | ---: |
-| Python | 73.1% |
-| TypeScript | 16.6% |
-| Java | 4.6% |
-| HCL | 4.6% |
-| PowerShell | 0.5% |
+| Python | 74.6% |
+| Go | 7.0% |
+| TypeScript | 6.5% |
+| HCL | 3.3% |
+| Shell | 3.3% |
 <!-- languages:end -->
 
 <details>

@@ -30,9 +30,13 @@ def fetch_reviews() -> int:
     return int(search(REVIEWED, "-f", "per_page=1", "--jq", ".total_count"))
 
 
+def repo_names(endpoint: str) -> list[str]:
+    return gh("--paginate", "-X", "GET", endpoint, "-f", "per_page=100",
+              "--jq", ".[] | select(.fork | not) | select(.archived | not) | .full_name").split()
+
+
 def fetch_languages() -> Counter:
-    names = gh("--paginate", "-X", "GET", f"users/{USER}/repos", "-f", "per_page=100",
-               "--jq", ".[] | select(.fork | not) | select(.archived | not) | .full_name").split()
+    names = repo_names(f"users/{USER}/repos") + repo_names("orgs/goodwinlabs/repos")
     total = Counter()
     for name in names:
         total.update(json.loads(gh(f"repos/{name}/languages")))
