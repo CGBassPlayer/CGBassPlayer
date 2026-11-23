@@ -27,13 +27,13 @@ I run infrastructure and platform administration at [Principal](https://www.prin
 ## :heart: My Open Source Contributions
 
 <!-- contributions:start -->
-**106** merged PRs across **8** projects, and **258** PRs reviewed.
+**118** merged PRs across **8** projects, and **264** PRs reviewed.
 
 | Project | Merged PRs |
 | --- | ---: |
-| [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com) | 76 |
+| [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com) | 85 |
 | [OpenLightingProject/open-fixture-library](https://github.com/OpenLightingProject/open-fixture-library) | 18 |
-| [ChanceM/show-scraper-2](https://github.com/ChanceM/show-scraper-2) | 5 |
+| [ChanceM/show-scraper-2](https://github.com/ChanceM/show-scraper-2) | 8 |
 | [JupiterBroadcasting/show-scraper](https://github.com/JupiterBroadcasting/show-scraper) | 3 |
 | [HopperDropper/Gridfinity](https://github.com/HopperDropper/Gridfinity) | 1 |
 | [hartmann-jonas/GrandMA2-Keyboard](https://github.com/hartmann-jonas/GrandMA2-Keyboard) | 1 |
@@ -44,11 +44,11 @@ I run infrastructure and platform administration at [Principal](https://www.prin
 ### Recent merged PRs
 
 <!-- recent:start -->
-- [Merge duplicate people pages and remove Joe](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1164) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-16
-- [Add the Washington Pass geocache location to the LUP 480 links](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1167) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-16
-- [Fix broken links in show notes: escape quotes in link titles and replace the dead Fountain referral](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1168) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-16
-- [Keep hand-merged people pages from being recreated on a rescrape](https://github.com/ChanceM/show-scraper-2/pull/12) in [ChanceM/show-scraper-2](https://github.com/ChanceM/show-scraper-2), 2026-11-16
-- [Add fallback content to /live/ when the stream is offline](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1163) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-16
+- [JSON and markdown twins for every page, named <slug>.json and <slug>.md](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1187) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-23
+- [Convert sponsors from content to data](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1185) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-22
+- [Convert the sponsors to data files instead of content](https://github.com/ChanceM/show-scraper-2/pull/15) in [ChanceM/show-scraper-2](https://github.com/ChanceM/show-scraper-2), 2026-11-22
+- [Cleanup Markdown and add JSON versions of show and episode pages](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1183) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-22
+- [Style the native audio and video players to match the theme](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/1182) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com), 2026-11-22
 <!-- recent:end -->
 
 ## :man_technologist: About Me
@@ -117,11 +117,11 @@ Bytes of code across my public repos, excluding markup and data formats.
 <!-- languages:start -->
 | Language | Share |
 | --- | ---: |
-| Python | 73.1% |
-| TypeScript | 16.6% |
-| Java | 4.6% |
-| HCL | 4.6% |
+| Python | 76.9% |
+| TypeScript | 17.3% |
+| Java | 4.8% |
 | PowerShell | 0.5% |
+| Shell | 0.5% |
 <!-- languages:end -->
 
 <details>
